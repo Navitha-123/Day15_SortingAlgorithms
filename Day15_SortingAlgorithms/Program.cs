@@ -23,7 +23,9 @@
 
             //UC3_InsertionSort.DisplayInsertion();
 
-            UC4_BubbleSort.SortArray();
+            // UC4_BubbleSort.SortArray();
+
+            UC6_Anagram.DisplayAnagram();
         }
     }
 }
