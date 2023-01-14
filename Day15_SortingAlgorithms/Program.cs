@@ -25,7 +25,9 @@
 
             // UC4_BubbleSort.SortArray();
 
-            UC6_Anagram.DisplayAnagram();
+            //UC6_Anagram.DisplayAnagram();
+
+            UC7_PrimeNumber.PrintPrimeNumber();
         }
     }
 }
